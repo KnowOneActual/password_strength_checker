@@ -1,6 +1,4 @@
-# password_strength_checker
-
-readme_content = """# Password Strength Checker
+# Simple Password Strength Checker
 
 This is a simple Python script that checks the strength of a user-inputted password. The script evaluates the password based on various criteria, such as length, character diversity, and the presence of special characters.
 

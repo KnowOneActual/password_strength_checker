@@ -9,6 +9,7 @@
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-brightgreen?style=flat&logo=shield)](https://github.com/knowoneactual/password_strength_checker)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+# Password Strength & Generator Tool
 
 **Project Status:** *Refactored Legacy Code*
 
@@ -51,9 +52,9 @@ This is a Python utility designed to validate password complexity and generate s
     ```
 
 2.  **Select an option from the menu:**
-    -   `1`: Check an existing password (input is hidden).
-    -   `2`: Generate a strong random password.
-    -   `3`: Generate a memorable passphrase.
+    -   1: Check an existing password (input is hidden).
+    -   2: Generate a strong random password.
+    -   3: Generate a memorable passphrase.
 
 ## Code Evolution
 

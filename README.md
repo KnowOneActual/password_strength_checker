@@ -46,12 +46,12 @@ This is a Python utility designed to validate password complexity and generate s
 
 ## Usage
 
-1.  **Run the script:**
+1. Run the script:
     ```bash
     python password_strength_checker.py
     ```
 
-2.  **Select an option from the menu:**
+2. Select an option from the menu:
        1: Check an existing password (input is hidden).
        2: Generate a strong random password.
        3: Generate a memorable passphrase.

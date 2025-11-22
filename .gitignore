@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User specific words file (since we look for it locally)
+words.txt
+
+# Virtual environments (if you use them later)
+venv/
+env/
